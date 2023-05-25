@@ -34,5 +34,5 @@ Sigue los pasos a continuación para instalar y configurar el proyecto en tu ent
 En la carpeta del proyecto ejecuta `pnpm install`
 Asegurate de tener la variable `DATABASE_MONGODB_LOCAL` definida en tu `.env`
 Modifica el código en `mongo.js` para buscar lo que quieras
-ejecuta `pnpm run`
+ejecuta `pnpm start`
 :)
